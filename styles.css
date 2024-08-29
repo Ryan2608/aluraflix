@@ -2,3 +2,21 @@ body{
     color:blue;
     background:black;
 }
+header{
+    border-bottom:  solid 2px red (249, 63, 246);
+    padding: 20px;
+    font-size: 32px;
+color:  red (249,  63, 246);
+}
+
+section{
+    background: white (103  64  7);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify- content: center;
+}
+
+div{
+    margin-right: 20px;
+}
