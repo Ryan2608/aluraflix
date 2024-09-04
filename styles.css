@@ -1,9 +1,10 @@
 body{
-    color:blue;
-    background:black;
+    color:rgb(255, 0, 0);
+    background:rgb(0, 0, 0);
+    font-family: "Sevillana", cursive;
 }
 header{
-    border-bottom:  solid 2px red (249, 63, 246);
+    border-bottom:  solid 2px #ffffff (249, 63, 246);
     padding: 20px;
     font-size: 32px;
 color:  red (249,  63, 246);
@@ -14,9 +15,16 @@ section{
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
-    justify- content: center;
+    justify-content: center;
 }
 
-div{
-    margin-right: 20px;
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1{
+    font-size:40px;
+}
+p{
+    font-size:20px;
 }
